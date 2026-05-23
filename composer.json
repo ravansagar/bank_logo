@@ -1,0 +1,17 @@
+{
+    "name": "ravansagar/bank-logo-fetcher",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ravansagar\\BankLogoFetcher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sagar Thakur",
+            "email": "huntersagar08@gmail.com"
+        }
+    ],
+    "require": {}
+}
